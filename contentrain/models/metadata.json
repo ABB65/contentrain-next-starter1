@@ -126,5 +126,13 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "fdsfds",
+    "description": "fdsfd",
+    "modelId": "fdsfds",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
